@@ -1,8 +1,0 @@
-@article{Yang2024WP,
-title={On the Spatial Allocation of College Seats: Human Capital Production and the Distribution of Skilled Labor},
-author={Yang, Yu (Alan)},
-journal={Available at SSRN 4966963},
-url = {https://dx.doi.org/10.2139/ssrn.4966963},
-year = {2024}
-}
-
